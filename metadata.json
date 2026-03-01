@@ -1,0 +1,5 @@
+{
+  "name": "Fullscreen Iframe Viewer",
+  "description": "A simple utility to view any website or web application in a fullscreen iframe with a clean interface.",
+  "requestFramePermissions": []
+}
